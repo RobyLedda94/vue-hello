@@ -3,3 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.effetto-immagine{
+    transition: transform 0.3s;
+}
+
+.effetto-immagine:hover{
+    transform: scale(1.1);
+    filter: brightness(1.2) contrast(1.2);
+}
