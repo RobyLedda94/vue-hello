@@ -5,7 +5,11 @@ const { createApp } = Vue;
 createApp({
     data(){
         return{
-            message: "HELLO VUE"
+            message: "HELLO VUE",
+            copertina:{
+                img: './img/poetto.jpg',
+                name: 'poetto',
+            }
         }
     }
 }).mount('#app');
