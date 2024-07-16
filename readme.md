@@ -11,3 +11,4 @@ Numero di push minimo: 3
 1.recupero il link di vuejs
 2.definisco in html un div con id app 
 3.struttura base nel file js
+4.aggiunta dei contenuti titolo ed immagine
